@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVUDtoym+Qw=",
+  "success": true,
+  "projectFilePath": "/home/yawn/CODE/dotnet_stuff/BahurNet/BahurNet.csproj",
+  "expectedPackageFiles": [
+    "/home/yawn/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
